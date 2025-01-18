@@ -1,0 +1,2 @@
+UUID=2cfb586c-1a06-4710-98a0-7eaad41e931d   /var/mnt/games   btrfs   defaults,compress-force=zstd:3,noatime,lazytime,commit=120,space_cache=v2,nofail   0 0 
+
